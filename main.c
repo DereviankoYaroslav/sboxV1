@@ -614,7 +614,7 @@ int main(int args, char **argv) {
     return 0;
 }
 
-//Ôóíêö³ÿ ïðèâåäåííÿ ÷èñëà çà ìîäóëåì äóÿêîãî ÷èñëà
+//Ôóíêö³ÿ ïðèâåäåííÿ ÷èñëà çà ìîäóëåì äóÿêîãî ÷èñë
 
 int myModulus(int number, int mod) {
     if (number < 0) {
